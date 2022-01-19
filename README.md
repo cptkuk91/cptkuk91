@@ -20,34 +20,26 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Node.js
--339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
 </p>
 
 <br>
 
 <h3 algin="center">🚀 Interesting..</h3>
 <p>
-<img src="https://img.shields.io/badge/Bitcoin
--F7931A?style=flat-square&logo=Bitcoin&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Ethereum
--3C3C3D?style=flat-square&logo=Ethereum&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Tether
--50AF95?style=flat-square&logo=Tether&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Solidity
--363636?style=flat-square&logo=Solidity&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=Bitcoin&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Tether-50AF95?style=flat-square&logo=Tether&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white"/></a>&nbsp
 </p>
 
 <br/>
 
 <h3 algin="center">📱 Contact Me</h3>
 <p>
-<a href="https://www.instagram.com/bk.lllll/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram
--E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp</a>
-<a href="https://discord.com/invite/kakaogg" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord
--5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>&nbsp</a>
-<a href="mailto:cptkuk91@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail
--EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp</a>
+<a href="https://www.instagram.com/bk.lllll/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp</a>
+<a href="https://discord.com/invite/kakaogg" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>&nbsp</a>
+<a href="mailto:cptkuk91@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp</a>
 
 </p>
 
