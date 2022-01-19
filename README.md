@@ -2,16 +2,16 @@
 
 <br/>
 
+<a align="center">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cptkuk91&theme=great-gatsby&show_icons=true)
 
-<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cptkuk91&layout=compact&theme=Platinum&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+</a>
 
 <br/>
 
-<h3 algin="center">🛠 Tech Stack 🛠</h3>
-<p>
+<h3 align="center">🛠 Tech Stack 🛠</h3>
+<p align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
@@ -25,8 +25,8 @@
 
 <br>
 
-<h3 algin="center">🚀 Interesting..</h3>
-<p>
+<h3 align="center">🚀 Interesting..</h3>
+<p align="center">
 <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=Bitcoin&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Tether-50AF95?style=flat-square&logo=Tether&logoColor=white"/></a>&nbsp
@@ -35,18 +35,15 @@
 
 <br/>
 
-<h3 algin="center">📱 Contact Me</h3>
-<p>
+<h3 align="center">📱 Contact Me</h3>
+<p align="center">
 <a href="https://www.instagram.com/bk.lllll/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp</a>
 <a href="https://discord.com/invite/kakaogg" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>&nbsp</a>
 <a href="mailto:cptkuk91@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp</a>
-
 </p>
 
 
-<br/>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcptkuk91%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=nucleo.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **cptkuk91/cptkuk91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
