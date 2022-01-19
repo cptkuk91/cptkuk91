@@ -2,11 +2,11 @@
 
 <br/>
 
-<a align="center">
+<div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cptkuk91&theme=great-gatsby&show_icons=true)
 
-</a>
+</div>
 
 <br/>
 
