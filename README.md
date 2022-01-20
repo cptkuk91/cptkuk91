@@ -41,7 +41,7 @@
 <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white"/></a>&nbsp
 
 <div align="center">
-    <img src="/Users/cocoa/Desktop/github/cptkuk91/images/binance_rec.jpeg">
+    <img src="./images/binance_rec.jpeg">
 </div>
 
 
