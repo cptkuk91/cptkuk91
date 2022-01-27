@@ -33,6 +33,14 @@
 <a href="https://www.youtube.com/channel/UCjLW-jxRzQW3rWgMs8ypFpQ" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>&nbsp</a>
 </p>
 
+<div align="center">
+</a>&nbsp</a>
+<h3>💡Owner💡</h3>
+<h4>Youtube: <a>https://www.youtube.com/clouttvgame</a></h3>
+<h4>Discord: <a>Discord.gg/kakaogg</a></h3>
+</a>&nbsp</a>
+</div>
+
 <h3 align="center">🚀 Interesting 🚀</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=Bitcoin&logoColor=white"/></a>&nbsp
