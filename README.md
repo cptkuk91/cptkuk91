@@ -36,8 +36,11 @@
 <div align="center">
 </a>&nbsp</a>
 <h3>💡Owner💡</h3>
-<h4>Youtube: <a>https://www.youtube.com/clouttvgame</a></h3>
-<h4>Discord: <a>Discord.gg/kakaogg</a></h3>
+<h4>Youtube: <a>https://www.youtube.com/clouttvgame</a></h4><br/>
+<h4>Discord: <a>Discord.gg/kakaogg</a>
+    <br/>
+    <p>&#9312; 로스트아크 떠돌이 상인 알림 Bot</p>
+</h4>
 </a>&nbsp</a>
 </div>
 
