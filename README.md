@@ -6,6 +6,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cptkuk91&theme=great-gatsby&show_icons=true)
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=cptkuk91&color=dark)](https://github.com/cptkuk91/velog-readme-stats)
+
 </div>
 
 <br/>
@@ -32,6 +34,8 @@
 <a href="mailto:cptkuk91@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp</a>
 <a href="https://www.youtube.com/channel/UCjLW-jxRzQW3rWgMs8ypFpQ" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>&nbsp</a>
 </p>
+
+
 
 <div align="center">
 </a>&nbsp</a>
