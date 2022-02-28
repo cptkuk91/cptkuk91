@@ -40,13 +40,17 @@
 <div align="center">
 </a>&nbsp</a>
 <h3>💡Owner💡</h3>
-<h4>Youtube: <a href="https://www.youtube.com/clouttvgame">https://www.youtube.com/clouttvgame</a></h4><br/>
-<h4>Discord: <a href="https://discord.com/invite/kakaogg">Discord.gg/kakaogg</a>
-    <br/>
-    <div>Lost Ark Alarm Bot</div>
-</h4>
-</a>&nbsp</a>
+<h4>Youtube: <a href="https://www.youtube.com/clouttvgame">Clout TV Game</a>
+<div>
+    <p>📌 League of Legends Challenger Replays<br>📌 Lost Ark Game Play</p>
+    <p></p>
 </div>
+</h4><br/>
+<h4>Discord: <a href="https://discord.com/invite/kakaogg">KAKAO.GG</a>
+</h4>
+<a href="https://github.com/KAKAOGG/KAKAO.GG-Alarm-Bot">📌 Lost Ark Alarm Bot</a>
+</div>
+</a>&nbsp</a>
 
 <h3 align="center">🚀 Interesting 🚀</h3>
 <p align="center">
