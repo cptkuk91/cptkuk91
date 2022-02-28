@@ -43,7 +43,7 @@
 <h4>Youtube: <a href="https://www.youtube.com/clouttvgame">https://www.youtube.com/clouttvgame</a></h4><br/>
 <h4>Discord: <a href="https://discord.com/invite/kakaogg">Discord.gg/kakaogg</a>
     <br/>
-    <p>&#9312; 로스트아크 떠돌이 상인 알림 Bot</p>
+    <div>Lost Ark Alarm Bot</div>
 </h4>
 </a>&nbsp</a>
 </div>
