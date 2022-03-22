@@ -61,11 +61,6 @@
 <img src="https://img.shields.io/badge/Tether-50AF95?style=flat-square&logo=Tether&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white"/></a>&nbsp
 
-<div align="center">
-    <img src="./images/binance_rec.jpeg">
-</div>
-
-
 <!--
 **cptkuk91/cptkuk91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
