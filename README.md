@@ -34,6 +34,12 @@
 <a href="https://www.youtube.com/channel/UCjLW-jxRzQW3rWgMs8ypFpQ" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>&nbsp</a>
 </p>
 
+<h3 align="center">🚀 Interesting 🚀</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=Bitcoin&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Tether-50AF95?style=flat-square&logo=Tether&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white"/></a>&nbsp
 
 
 <div align="center">
@@ -54,12 +60,7 @@
 </div>
 </a>&nbsp</a>
 
-<h3 align="center">🚀 Interesting 🚀</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=Bitcoin&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Tether-50AF95?style=flat-square&logo=Tether&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white"/></a>&nbsp
+
 
 <!--
 **cptkuk91/cptkuk91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
