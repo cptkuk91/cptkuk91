@@ -33,9 +33,6 @@
 
 <h3 align="center">🚀 Interesting 🚀</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=Bitcoin&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Tether-50AF95?style=flat-square&logo=Tether&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white"/></a>&nbsp
 
 
