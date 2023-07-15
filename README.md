@@ -6,8 +6,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cptkuk91&theme=great-gatsby&show_icons=true)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=cptkuk91&color=dark)](https://velog.io/@cptkuk91)
-
 </div>
 
 <br/>
