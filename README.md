@@ -47,22 +47,3 @@
 <div>
     <p>Client: Next.js, React, TypeScript, Tailwind.<br>Server: Node.js, Express.js.<br/>Database: MySQL, Firebase, Sanity</p>
 </div>
-
-<br>
-
-<h4>📌 Discord: <a href="https://discord.com/invite/kakaogg">KAKAO.GG</a>
-</h4>
-<div>
-    <p>Alram-Bot, Music-Bot<br></p>
-</div>
-
-<br>
-
-<h4>📌 Youtube: <a href="https://www.youtube.com/clouttvgame">Clout TV Game</a>
-</h4>
-<div>
-    <p>League of Legends Challenger Replays<br>Lost Ark Game Play</p>
-</div>
-</div>
-</a>&nbsp</a>
-
