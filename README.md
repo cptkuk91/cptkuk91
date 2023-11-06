@@ -44,6 +44,3 @@
 </a>&nbsp</a>
 <h3>💡 What i made it!💡</h3>
 <h4>📌 Portfolio Site: <a href="https://www.kakao.gg/">KAKAO.GG</a></h4>
-<div>
-    <p>Client: Next.js, React, TypeScript, Tailwind.<br>Server: Node.js, Express.js.<br/>Database: MySQL, Firebase, Sanity</p>
-</div>
