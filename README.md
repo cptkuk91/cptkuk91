@@ -42,5 +42,4 @@
 
 <div align="center">
 </a>&nbsp</a>
-<h3>💡 What i made it!💡</h3>
 <h4>📌 Portfolio Site: <a href="https://www.kakao.gg/">KAKAO.GG</a></h4>
