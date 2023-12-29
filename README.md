@@ -25,7 +25,7 @@
 
 </p>
 
-<h3 align="center">📱 Contact 📱</h3>
+<h3 align="center">Contact</h3>
 <p align="center">
 <a href="https://discord.com/invite/kakaogg" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>&nbsp</a>
 <a href="mailto:cptkuk91@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp</a>
