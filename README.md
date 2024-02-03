@@ -31,7 +31,3 @@
 <a href="mailto:cptkuk91@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp</a>
 <a href="https://www.youtube.com/channel/UCjLW-jxRzQW3rWgMs8ypFpQ" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>&nbsp</a>
 </p>
-
-<div align="center">
-</a>&nbsp</a>
-<h4>📌 Portfolio Site: <a href="https://www.kakao.gg/">KAKAO.GG</a></h4>
