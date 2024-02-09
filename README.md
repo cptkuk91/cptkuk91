@@ -15,7 +15,8 @@
 
 - 📫 How to reach me **cptkuk91@gmail.com**
 
-<h3 align="left">Connect with me: [Github](https://github.com/cptkuk91)</h3>
+- Connect with me
+  - [Github](https://github.com/cptkuk91)
 
 <p align="left">
 </p>
