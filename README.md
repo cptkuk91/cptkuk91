@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kakao.gg](https://kakao.gg)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Next.js (FullStack)**
 
 - 📫 How to reach me **cptkuk91@gmail.com**
 
