@@ -3,7 +3,7 @@
 <br/>
 
 <h1 align="center">Hi 👋, I'm cptkuk</h1>
-<h3 align="center">A passionate developer from South Korea</h3>
+<h3 align="center">Passionate developer from South Korea</h3>
 
 - 🔭 I’m currently working on [KoreaBiztech](https://korbiztech.com/)
 
