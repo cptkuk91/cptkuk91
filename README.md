@@ -18,6 +18,7 @@
 - Connect with me
   - [Github](https://github.com/cptkuk91)
   - [GG](https://kakao.gg)
+  - [URITABI](https://uritabi.kakao.gg)
 
 <p align="left">
 </p>
