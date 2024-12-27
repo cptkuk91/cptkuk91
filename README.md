@@ -16,7 +16,6 @@
 - 📫 How to reach me **cptkuk91@gmail.com**
 
 - Connect with me
-  - [Github](https://github.com/cptkuk91)
   - [GG](https://kakao.gg)
 
 <p align="left">
