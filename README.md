@@ -15,7 +15,6 @@
 - 📫 How to reach me **cptkuk91@gmail.com**
 
 - Connect
-  - [GG](https://kakao.gg)
 
 <p align="left">
 </p>
