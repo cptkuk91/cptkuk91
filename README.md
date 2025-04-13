@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **cptkuk91@gmail.com**
 
-- Connect
+
 
 <p align="left">
 </p>
