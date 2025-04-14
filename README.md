@@ -14,8 +14,6 @@
 
 - 📫 How to reach me **cptkuk91@gmail.com**
 
-
-
 <p align="left">
 </p>
 
