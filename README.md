@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kakao.gg](https://kakao.gg)
 
-- 💬 Ask me about **Next.js (FullStack)**
+- 💬 Ask me about **(FullStack)**
 
 - 📫 How to reach me **cptkuk91@gmail.com**
 
