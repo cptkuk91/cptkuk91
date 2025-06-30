@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js, Java**
 
-- 👨‍💻 All of my projects are available at [https://kakao.gg](https://kakao.gg)
+- 👨‍💻 All of my projects are available at [https://kakao.gg](https://tech.kakao.gg)
 
 - 💬 Ask me about **(FullStack)**
 
