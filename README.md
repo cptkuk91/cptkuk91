@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm cptkuk</h1>
 <h3 align="center">Developer from South Korea</h3>
 
-- 🔭 I’m currently working on [KoreaBiztech](https://korbiztech.com/)
-
 - 🌱 I’m currently learning **Next.js, Java**
 
 - 👨‍💻 All of my projects are available at [https://kakao.gg](https://tech.kakao.gg)
