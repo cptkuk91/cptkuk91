@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Next.js, Java**
 
-- 👨‍💻 All of my projects are available at [https://kakao.gg](https://tech.kakao.gg)
-
 - 💬 Ask me **(FullStack)**
 
 - 📫 How to reach me **cptkuk91@gmail.com**
