@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Next.js, Java**
 
-- 💬 Ask me **(FullStack)**
-
 - 📫 How to reach me **cptkuk91@gmail.com**
 
 <p align="left">
