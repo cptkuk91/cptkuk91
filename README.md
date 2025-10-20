@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm cptkuk</h1>
 <h3 align="center">Developer from South Korea</h3>
 
-- 🌱 I’m currently learning **Next.js, Java**
-
 - 📫 How to reach me **cptkuk91@gmail.com**
 
 <p align="left">
