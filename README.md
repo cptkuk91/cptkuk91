@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=cptkuk&fontSize=90)
 <br/>
-<h1 align="center">Hi 👋, I'm cptkuk</h1>
-<h3 align="center">Developer from South Korea</h3>
+<h1 align="center">Developer from South Korea</h1>
 
 - 📫 How to reach me **cptkuk91@gmail.com**
 
