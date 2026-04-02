@@ -95,11 +95,6 @@ Korea travel platform built specifically for Japanese tourists.
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cptkuk91&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cptkuk91&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cptkuk91&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
