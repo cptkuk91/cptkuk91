@@ -98,10 +98,6 @@ Korea travel platform built specifically for Japanese tourists.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cptkuk91&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-## Contact
-
-- X: [AutoBotLog](https://x.com/AutoBotLog)
-
 ## One Line
 
 AI-native developer.
